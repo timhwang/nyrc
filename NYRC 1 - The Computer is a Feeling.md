@@ -2,8 +2,6 @@
 
 By Tim Hwang and Omar Rizwan
 
-*New York Review of Computation #1 (May 2023)*
-
 1. The computer is a feeling, not a device.
 
 1. By this we mean that what makes a computer a computer has nothing to do with commands, compilers, or even machines. For us, computer is the specific feeling of artifacts that allow for intimate systems of personal meaning.
@@ -43,3 +41,5 @@ By Tim Hwang and Omar Rizwan
 1. The agenda is to expand our understanding of what makes the computer-feeling. 
 
 1. The agenda is to advance the computer-feeling in devices, objects, and cultures.
+
+*New York Review of Computation #1 (May 2023)*
