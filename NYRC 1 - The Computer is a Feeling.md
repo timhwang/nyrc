@@ -1,6 +1,8 @@
-The Computer is a Feeling
+`The Computer is a Feeling`
+
 By Tim Hwang and Omar Rizwan
-New York Review of Computation #1 (May 2023)
+
+*New York Review of Computation #1 (May 2023)*
 
 1. The computer is a feeling, not a device.
 
