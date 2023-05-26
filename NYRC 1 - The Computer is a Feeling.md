@@ -32,7 +32,7 @@ By Tim Hwang and Omar Rizwan
 
 1. An old dogma is that true computer-feeling emanates from certain technical commitments. Open source and free software partisans hold to the orthodoxy that the computer-feeling depends on the capability to read and write source code. 
 
-1. The modern era highlights the absurdities of this creed. We live in a world awash in resources shilling the self-help doctrine of “learn to code” – at no point in history has it been easier to learn how to program. But, as yet, the computer-feeling continues to ebb away. Programming is a means to evoke a computer-feeling, but no iron law requires that one will use it for this purpose. 
+1. The modern era highlights the absurdities of this creed. We live in a world awash in resources shilling the self-help doctrine of “learn to code”. But, as yet, the computer-feeling continues to ebb away. Programming is a means to evoke a computer-feeling, but no iron law requires that one will use it for this purpose. 
 
 1. This orthodoxy is also a kind of fetishism. “Programming” can conjure a computer-feeling, but it is not the computer-feeling itself. The sense that programming is the only way celebrates the tools, but not the experience. We want the experience. 
 
